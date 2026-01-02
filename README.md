@@ -44,7 +44,8 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 
 # TOPICOS
 
-# A - Ingestão de Dados https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb
+# A - Ingestão de Dados 
+https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb
 # B
 # C
 # D
