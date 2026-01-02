@@ -41,3 +41,15 @@ Confiança: clientes e gestores sabiam que o sistema estava sempre atualizado e 
 
 🌟 O futuro
 Esse projeto não é apenas uma solução técnica. É uma história de como tecnologia e estratégia se unem para proteger pessoas. Cada linha de código é um tijolo na muralha contra fraudes. Cada build disparado é um lembrete de que a inovação pode ser a melhor arma contra ameaças invisíveis.
+
+#TOPICOS
+
+#A
+#B
+#C
+#D
+#E
+#F
+#G
+#H
+
