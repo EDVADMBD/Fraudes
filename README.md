@@ -54,7 +54,8 @@ https://github.com/EDVADMBD/Fraudes/blob/main/04_evaluation_and_registry..ipynb
 https://github.com/EDVADMBD/Fraudes/blob/main/05_batch_scoring.ipynb
 # E -  Monitoramento de modelo de fraude - Dashboard Visual
 https://github.com/EDVADMBD/Fraudes/blob/main/06_model_monitoring.py%20c.ipynb
-# F
+# F - Monitoramento de modelo de fraude - Dashboard + Alertas
+https://github.com/EDVADMBD/Fraudes/blob/main/06.1_model_monitoring.py.ipynb
 # G
 # H
 
