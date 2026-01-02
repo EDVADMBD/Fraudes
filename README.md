@@ -66,7 +66,9 @@ https://github.com/EDVADMBD/Fraudes/blob/main/08_ci_cd_pipeline.py.ipynb
 # 01 - Databricks
 https://github.com/EDVADMBD/Fraudes/blob/main/area_1.JPG
 
-# 02
+# 02 - Projeto GCP
+https://github.com/EDVADMBD/Fraudes/blob/main/area_2.JPG
+
 # 03
 
 
