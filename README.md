@@ -56,7 +56,14 @@ https://github.com/EDVADMBD/Fraudes/blob/main/05_batch_scoring.ipynb
 https://github.com/EDVADMBD/Fraudes/blob/main/06_model_monitoring.py%20c.ipynb
 # F - Monitoramento de modelo de fraude - Dashboard + Alertas
 https://github.com/EDVADMBD/Fraudes/blob/main/06.1_model_monitoring.py.ipynb
-# G Monitoramento de modelo de fraude - Dashboard por criticidade
+# G - Monitoramento de modelo de fraude - Dashboard por criticidade
 https://github.com/EDVADMBD/Fraudes/blob/main/07_model_retraining.py%2C.ipynb
-# H
+# H - CI/CD no GCP via Cloud Build usando chave de serviço
+https://github.com/EDVADMBD/Fraudes/blob/main/08_ci_cd_pipeline.py.ipynb
+
+# AREAS DE TRABALHO
+# 01
+# 02
+# 03
+
 
