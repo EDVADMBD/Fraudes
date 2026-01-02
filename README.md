@@ -50,7 +50,8 @@ https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb
 https://github.com/EDVADMBD/Fraudes/blob/main/02%20-%20Conex%C3%B5es_catalog.ipynb
 # C - Avaliação de Registros
 https://github.com/EDVADMBD/Fraudes/blob/main/04_evaluation_and_registry..ipynb
-# D
+# D - Monitoramento 
+https://github.com/EDVADMBD/Fraudes/blob/main/05_batch_scoring.ipynb
 # E
 # F
 # G
