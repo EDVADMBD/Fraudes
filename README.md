@@ -69,6 +69,7 @@ https://github.com/EDVADMBD/Fraudes/blob/main/area_1.JPG
 # 02 - Projeto GCP
 https://github.com/EDVADMBD/Fraudes/blob/main/area_2.JPG
 
-# 03
+# 03 - Contas de serviços
+https://github.com/EDVADMBD/Fraudes/blob/main/area_3.JPG
 
 
