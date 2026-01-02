@@ -61,8 +61,11 @@ https://github.com/EDVADMBD/Fraudes/blob/main/07_model_retraining.py%2C.ipynb
 # H - CI/CD no GCP via Cloud Build usando chave de serviço
 https://github.com/EDVADMBD/Fraudes/blob/main/08_ci_cd_pipeline.py.ipynb
 
+
 # AREAS DE TRABALHO
-# 01
+# 01 - Databricks
+https://github.com/EDVADMBD/Fraudes/blob/main/area_1.JPG
+
 # 02
 # 03
 
