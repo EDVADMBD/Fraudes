@@ -82,7 +82,7 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 
 
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas:
 Python (Pandas, Scikit-learn, PySpark)
 
 Databricks (processamento distribuído e ML)
