@@ -6,9 +6,7 @@
 - Arquitetura
 - Notebooks
 - Áreas do Projeto
-- Como Executar
 - Tecnologias Utilizadas
-- Próximos Passos
 
 ---
 
