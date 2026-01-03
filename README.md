@@ -70,14 +70,6 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 [![F - Dashboard + Alertas](https://img.shields.io/badge/F%20--%20Dashboard%20+%20Alertas-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/06.1_model_monitoring.py.ipynb)  
 [![G - Dashboard por Criticidade](https://img.shields.io/badge/G%20--%20Dashboard%20por%20Criticidade-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/07_model_retraining.py%2C.ipynb)  
 [![H - CI/CD no GCP](https://img.shields.io/badge/H%20--%20CI/CD%20no%20GCP-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/08_ci_cd_pipeline.py.ipynb)  
-
----
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/EDVADMBD/Fraudes.git
  
 
 ---
