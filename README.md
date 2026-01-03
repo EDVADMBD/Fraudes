@@ -80,6 +80,8 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 [![02 - Projeto GCP](https://img.shields.io/badge/02%20--%20Projeto%20GCP-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_2.JPG)  
 [![03 - Contas de serviços](https://img.shields.io/badge/03%20--%20Contas%20de%20serviços-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_3.JPG)
 
+
+
 🛠️ Tecnologias Utilizadas
 Python (Pandas, Scikit-learn, PySpark)
 
