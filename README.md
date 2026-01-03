@@ -73,11 +73,16 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 
 ---
 
-## 🚀 Como Executar
+🛠️ Tecnologias Utilizadas
+Python (Pandas, Scikit-learn, PySpark)
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/EDVADMBD/Fraudes.git
+Databricks (processamento distribuído e ML)
+
+Google Cloud Build (CI/CD)
+
+GCP Service Accounts (segurança e autenticação)
+
+LGPD Compliance (proteção de dados)
 
 
 
