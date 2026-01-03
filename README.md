@@ -58,4 +58,25 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 [![03 - Contas de serviços](https://img.shields.io/badge/03%20--%20Contas%20de%20serviços-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_3.JPG)
 
 
+## 🖼️ Arquitetura e Áreas do Projeto
+
+### 🔸 Botões de acesso
+[![01 - Databricks](https://img.shields.io/badge/01%20--%20Databricks-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_1.JPG)
+[![02 - Projeto GCP](https://img.shields.io/badge/02%20--%20Projeto%20GCP-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_2.JPG)
+[![03 - Contas de serviços](https://img.shields.io/badge/03%20--%20Contas%20de%20serviços-Imagem-orange?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/area_3.JPG)
+
+---
+
+### 🔸 Visualização direta
+#### 01 - Databricks
+![Databricks](https://github.com/EDVADMBD/Fraudes/blob/main/area_1.JPG)
+
+#### 02 - Projeto GCP
+![Projeto GCP](https://github.com/EDVADMBD/Fraudes/blob/main/area_2.JPG)
+
+#### 03 - Contas de serviços
+![Contas de serviços](https://github.com/EDVADMBD/Fraudes/blob/main/area_3.JPG)
+
+
+
 
