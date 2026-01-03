@@ -47,7 +47,10 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 # A - Ingestão de Dados 
 [A - Ingestão de Dados](https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb)
 
-<a href="https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb">A - Ingestão de Dados</a>
+## 📓 Notebook
+
+[![Abrir Notebook](https://img.shields.io/badge/A%20--%20Ingestão%20de%20Dados-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb)
+
 
 
 
