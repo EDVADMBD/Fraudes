@@ -62,7 +62,7 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 ---
 
 ## 📓 Notebooks
-
+[![A - Ingestão de Dados](https://img.shields.io/badge/A%20--%20Ingestão%20de%20Dados-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/01_data_ingestion.%20(1).ipynb)
 [![B - Conexões e credenciais](https://img.shields.io/badge/B%20--%20Conexões%20e%20credenciais-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/02%20-%20Conex%C3%B5es_catalog.ipynb)  
 [![C - Avaliação de Registros](https://img.shields.io/badge/C%20--%20Avaliação%20de%20Registros-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/04_evaluation_and_registry..ipynb)  
 [![D - Monitoramento](https://img.shields.io/badge/D%20--%20Monitoramento-Notebook-blue?style=for-the-badge)](https://github.com/EDVADMBD/Fraudes/blob/main/05_batch_scoring.ipynb)  
