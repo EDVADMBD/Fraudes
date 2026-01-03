@@ -73,6 +73,15 @@ Esse projeto não é apenas uma solução técnica. É uma história de como tec
 
 ---
 
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/EDVADMBD/Fraudes.git
+ 
+
+---
+
 🛠️ Tecnologias Utilizadas
 Python (Pandas, Scikit-learn, PySpark)
 
